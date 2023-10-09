@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+
+.sidenav {
+position: fixed;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+z-index: 10;
+}
+
+.sidenav__logo{
+   font-family: 'Grand Hotel', cursive;
+   font-size: 60px;
+   margin: 25px;
+    
+}
